@@ -1,6 +1,6 @@
 前端：Vue + Element
 后端：Springboot + Mybits 
-数据库：Mysql + Redis  
+数据库：Mysql + Redis   
      
 登录： 
 ![login](https://github.com/user-attachments/assets/34161e2f-259b-4498-8073-808677b38e19)
